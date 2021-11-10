@@ -2,23 +2,17 @@
     display: flex;
 }
 
-.col {
-    flex: 4;
+.col, .col-2, .col-3 {
+    flex: 1;
     padding: 20px;
     margin: 10px;
     background-color: wheat;
 }
 
 .col-2 {
-    flex: 8;
-    padding: 20px;
-    margin: 10px;
-    background-color: wheat;
+    flex: 2;
 }
 
 .col-3 {
-    flex: 13;
-    padding: 20px;
-    margin: 10px;
-    background-color: wheat;
+    flex: 3;
 }
