@@ -1,0 +1,46 @@
+* {
+    margin:20px;
+}
+
+h1 {
+    color: gray;
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+#container1 {
+    background-color:skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#container2 {
+    background-color: pink;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#container3 {
+    background-color: beige;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+img {
+    height:200px;
+}
+
+h3 {
+    color: gainsboro;
+    font-size: 15px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+a {
+    color: skyblue;
+}
